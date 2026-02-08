@@ -1,0 +1,18 @@
+# Kubernetes
+*.kubeconfig
+*.pem
+*.key
+*.crt
+join*.txt
+
+# Secrets
+secrets.yaml
+*.env
+.env
+
+# Helm
+*.tgz
+
+# System
+.DS_Store
+Thumbs.db
